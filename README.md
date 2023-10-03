@@ -18,3 +18,17 @@ hover:
     <div class="container mx-auto">
       <!-- ... -->
     </div>
+
+
+### Display
+
+block - full width 100% nbe .
+inline-block-> jototuk text oituk e nbe 
+
+## position
+ left : auto dile dane chole jbe
+ right : 0
+
+
+
+
