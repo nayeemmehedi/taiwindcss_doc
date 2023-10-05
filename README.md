@@ -1,34 +1,20 @@
 # taiwindcss_doc
 
-### hover:
-............
+### Aspect Ratio
 
-hover:
+ভিডিওর সাইজ সঠিকভাবে নির্ধারণ করার জন্য আপনি একটি "এসপেক্ট রেশিও" ব্যবহার করতে পারেন, এবং এটি ডিভ সাইজ নির্ধারণের জন্য ব্যবহার করতে পারেন।
 
-    <button class="bg-sky-500 hover:bg-sky-700 ...">
-      Save changes
-    </button>
-
-### CSS Break-Before Break-After & Break-Inside
-
-এটা মূলত প্রিন্ট করার জন্য ব্যবহৃত হয়... পৃষ্ঠা দেখানোর পরে দ্বিতীয় পৃষ্ঠায় শুরু করতে এবং কীভাবে সাধারণ পৃষ্ঠায় ব্যবহৃত হয় না।
-
-####  mx-auto - যদি আপনি সেটা করেন, তাহলে কন্টেনার মধ্যে চলে আসবে।
-
-    <div class="container mx-auto">
-      <!-- ... -->
-    </div>
+aspect-auto ->	aspect-ratio: auto;
+aspect-square -> aspect-ratio: 1 / 1;
+aspect-video -> aspect-ratio: 16 / 9;
 
 
-### Display
+### Container
 
-block - full width 100% nbe .
-inline-block-> jototuk text oituk e nbe 
-
-## position
- left : auto dile dane chole jbe
- right : 0
-
-
+### align 
+align item : upor niche
+justify : x acis borarbor change hbe
+justify-content: space around - space nbe -majher 2 ta beshi nbe
+justify-content: space evenly - perfect space nbe
 
 
